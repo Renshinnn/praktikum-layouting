@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">MultiLayout</string>
+    <string name="move_activity">Pindah Activity</string>
+    <string name="move_to_sv">Pindah ke Scroll View</string>
+    <string name="move_with_data">Pindah Activity dengan Data</string>
+    <string name="move_with_object">Pindah Activity dengan Objek</string>
+    <string name="dial_number">Dial a Number</string>
+    <string name="move_with_result">Pindah Activity untuk Result</string>
+    <string name="result_from_activity">Hasil dari Activity</string>
+    <string name="choose_number">Pilih Angka yang kamu suka</string>
+    <string name="_50">50</string>
+    <string name="_100">50</string>
+    <string name="_150">50</string>
+    <string name="_200">50</string>
+    <string name="choose">Pilih</string>
+    <string name="data_received">Data Diterima</string>
+    <string name="object_recieved">Object Diterima</string>
+    <string name="this_is_moveactivity">Ini MoveActivity</string>
+    <string name="paragraf">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquet sagittis id consectetur purus ut faucibus pulvinar. Sit amet porttitor eget dolor morbi non. Egestas fringilla phasellus faucibus scelerisque eleifend donec pretium vulputate. Aenean et tortor at risus viverra adipiscing at in. Proin fermentum leo vel orci porta non pulvinar. Eu ultrices vitae auctor eu augue ut lectus arcu bibendum. Sit amet consectetur adipiscing elit duis tristique sollicitudin. Interdum posuere lorem ipsum dolor sit amet. Neque sodales ut etiam sit amet nisl purus. Auctor elit sed vulputate mi sit amet mauris commodo. Habitant morbi tristique senectus et netus. Vel elit scelerisque mauris pellentesque. Adipiscing bibendum est ultricies integer quis auctor elit sed. Egestas erat imperdiet sed euismod nisi porta lorem mollis. Risus nec feugiat in fermentum posuere urna. Lobortis elementum nibh tellus molestie. Sit amet porttitor eget dolor morbi non arcu.
+
+Etiam non quam lacus suspendisse faucibus interdum. Ipsum faucibus vitae aliquet nec ullamcorper sit amet. Gravida cum sociis natoque penatibus et magnis. Est velit egestas dui id. Aliquet sagittis id consectetur purus ut faucibus. Fermentum posuere urna nec tincidunt praesent. Congue eu consequat ac felis donec et odio pellentesque diam. Pellentesque habitant morbi tristique senectus et netus. Nunc faucibus a pellentesque sit. Quis varius quam quisque id diam vel quam elementum. Etiam tempor orci eu lobortis elementum nibh.
+
+Cras ornare arcu dui vivamus. Hac habitasse platea dictumst vestibulum rhoncus est. In metus vulputate eu scelerisque felis imperdiet proin. Nibh venenatis cras sed felis. Dui accumsan sit amet nulla facilisi. Potenti nullam ac tortor vitae purus faucibus ornare. Ipsum suspendisse ultrices gravida dictum fusce ut placerat orci. Nullam vehicula ipsum a arcu cursus vitae congue mauris. Id volutpat lacus laoreet non curabitur gravida arcu. Auctor eu augue ut lectus. Nibh tellus molestie nunc non blandit massa enim. Sed tempus urna et pharetra pharetra. Maecenas pharetra convallis posuere morbi leo urna molestie at elementum. Pellentesque habitant morbi tristique senectus et netus. Lorem ipsum dolor sit amet consectetur adipiscing elit. Pellentesque elit eget gravida cum sociis natoque penatibus et. Pretium aenean pharetra magna ac placerat vestibulum.
+
+Porttitor leo a diam sollicitudin tempor id eu nisl nunc. Arcu risus quis varius quam. Quisque id diam vel quam elementum pulvinar etiam. Nulla pharetra diam sit amet nisl suscipit. Malesuada fames ac turpis egestas sed tempus urna et. Blandit aliquam etiam erat velit scelerisque in dictum. Nulla facilisi nullam vehicula ipsum. Nisl pretium fusce id velit. Quam nulla porttitor massa id neque aliquam vestibulum. Et netus et malesuada fames. Diam ut venenatis tellus in. Mus mauris vitae ultricies leo integer malesuada nunc vel.
+
+Gravida neque convallis a cras semper auctor. Ipsum dolor sit amet consectetur adipiscing elit duis tristique sollicitudin. Ullamcorper eget nulla facilisi etiam dignissim diam quis. Consectetur a erat nam at lectus. Suspendisse ultrices gravida dictum fusce ut placerat orci nulla. Dignissim suspendisse in est ante in nibh mauris. Et egestas quis ipsum suspendisse ultrices gravida. Eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis. Arcu odio ut sem nulla. Quam lacus suspendisse faucibus interdum posuere. Leo in vitae turpis massa. Placerat in egestas erat imperdiet. Tincidunt nunc pulvinar sapien et ligula ullamcorper. Tellus in hac habitasse platea dictumst vestibulum. Augue ut lectus arcu bibendum at varius vel pharetra. Id diam maecenas ultricies mi eget mauris pharetra et ultrices.</string>
+</resources>
