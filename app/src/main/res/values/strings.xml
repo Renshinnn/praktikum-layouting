@@ -25,4 +25,23 @@ Cras ornare arcu dui vivamus. Hac habitasse platea dictumst vestibulum rhoncus e
 Porttitor leo a diam sollicitudin tempor id eu nisl nunc. Arcu risus quis varius quam. Quisque id diam vel quam elementum pulvinar etiam. Nulla pharetra diam sit amet nisl suscipit. Malesuada fames ac turpis egestas sed tempus urna et. Blandit aliquam etiam erat velit scelerisque in dictum. Nulla facilisi nullam vehicula ipsum. Nisl pretium fusce id velit. Quam nulla porttitor massa id neque aliquam vestibulum. Et netus et malesuada fames. Diam ut venenatis tellus in. Mus mauris vitae ultricies leo integer malesuada nunc vel.
 
 Gravida neque convallis a cras semper auctor. Ipsum dolor sit amet consectetur adipiscing elit duis tristique sollicitudin. Ullamcorper eget nulla facilisi etiam dignissim diam quis. Consectetur a erat nam at lectus. Suspendisse ultrices gravida dictum fusce ut placerat orci nulla. Dignissim suspendisse in est ante in nibh mauris. Et egestas quis ipsum suspendisse ultrices gravida. Eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis. Arcu odio ut sem nulla. Quam lacus suspendisse faucibus interdum posuere. Leo in vitae turpis massa. Placerat in egestas erat imperdiet. Tincidunt nunc pulvinar sapien et ligula ullamcorper. Tellus in hac habitasse platea dictumst vestibulum. Augue ut lectus arcu bibendum at varius vel pharetra. Id diam maecenas ultricies mi eget mauris pharetra et ultrices.</string>
+    <string name="data_1">Data 1</string>
+    <string name="data_2">Data 2</string>
+
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">LANJUT</string>
+    <string name="skip">LEWATI</string>
+    <string name="start">MULAI</string>
+
+    <string name="slide_1_title">HALLO</string>
+    <string name="slide_1_desc">Yoyoy, Jangan dilembut-lembutin, Sebelah sini ...</string>
+
+    <string name="slide_2_title">HALLO LAGI</string>
+    <string name="slide_2_desc">Hello vlog, Welcome to my guys!</string>
+
+    <string name="slide_3_title">LAGI GUYS</string>
+    <string name="slide_3_desc">Nyeyeyeyeyey</string>
+
+    <string name="slide_4_title">CUMA NYOBA KOK</string>
+    <string name="slide_4_desc">Males pengen beli trek</string>
 </resources>
