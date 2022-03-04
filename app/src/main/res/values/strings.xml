@@ -8,10 +8,10 @@
     <string name="move_with_result">Pindah Activity untuk Result</string>
     <string name="result_from_activity">Hasil dari Activity</string>
     <string name="choose_number">Pilih Angka yang kamu suka</string>
-    <string name="_50">50</string>
-    <string name="_100">50</string>
-    <string name="_150">50</string>
-    <string name="_200">50</string>
+    <string name="_50">1</string>
+    <string name="_100">2</string>
+    <string name="_150">3</string>
+    <string name="_200">4</string>
     <string name="choose">Pilih</string>
     <string name="data_received">Data Diterima</string>
     <string name="object_recieved">Object Diterima</string>
